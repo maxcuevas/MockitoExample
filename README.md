@@ -12,13 +12,15 @@ Steps
 6. There should be a table with three rows with the following text(Each of these rows are dependencies that mockito 
 core needs to work, I tried to use the latest updated versions and mockito did not work): 
 
+```
 Category/License		Group / Artifact	                    Version 	Updates
 Bytecode
 Apache 2.0		      net.bytebuddy » byte-buddy	          1.9.10	  1.9.12
 
-Apache 2.0		      net.bytebuddy » byte-buddy-agent	    1.9.10	  1.9.12
+Apache 2.0		      net.bytebuddy » byte-buddy-agent	           1.9.10	  1.9.12
 Reflection
-Apache 2.0		      org.objenesis » objenesis	            2.6	      3.0.1
+Apache 2.0		      org.objenesis » objenesis	                   2.6	        3.0.1
+```
 
 
 7. Click on the button with "1.9.10" version for byte-buddy and download the jar
