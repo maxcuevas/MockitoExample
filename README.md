@@ -8,7 +8,7 @@ Steps
 2. Look for a table with a row that has the following text: "Files	jar (573 KB)  View All"
 3. Click the "jar (573 KB)" button
 4. Download the jar somewhere
-5. Scroll down to compile dependencies
+5. Scroll down to "Compile Dependencies"
 6. There should be a table with three rows with the following text(Each of these rows are dependencies that mockito 
 core needs to work, I tried to use the latest updated versions and mockito did not work): 
 
